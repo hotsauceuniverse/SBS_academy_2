@@ -2,7 +2,7 @@ package Day09;
 
 import java.util.*;
 
-public class Ex33 {
+public class Ex32 {
 
 //	공통으로 사용할 필드 값
 	Scanner sc = new Scanner(System.in);
@@ -104,7 +104,7 @@ public class Ex33 {
 	
 	public static void main(String[] args) {
 	
-		Ex33 sol = new Ex33();
+		Ex32 sol = new Ex32();
 		sol.Update();
 		
 	}
